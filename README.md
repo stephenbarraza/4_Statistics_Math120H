@@ -1,8 +1,8 @@
 ![Sullivan_Stat](https://user-images.githubusercontent.com/40402886/112761872-1f7a6e00-8fb2-11eb-8bd9-e6d4c22f740b.jpeg)
 
-# What's goin' on here.
+## Why Did this Interest Me and What was I Hoping to Get Out of It?
 
-Please allow a me a little bit of latitude with this repo.
+Allow a me a little bit of latitude with this repo.
 
 Inside here you'll find the homework I did for a Statistics class I took a few years back as well as a short research project for the class.  Why set up a repo for this you ask (I'd ask, at least)?
 
